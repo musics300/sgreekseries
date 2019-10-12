@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-0, group-title="THA GINEI THS POLYKATOIKIAS",EP1
+http://videostream.skai.gr/201909/video/seires/polukatoikia20190925.mp4.m3u8
+#EXTINF:-0, group-title="THA GINEI THS POLYKATOIKIAS",EP2
+http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
+#EXTINF:-0, group-title="THA GINEI THS POLYKATOIKIAS",EP3
+http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
+#EXTINF:-0, group-title="THA GINEI THS POLYKATOIKIAS",EP4
+http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
+#EXTINF:-0, group-title="LOGW TIMHS 20 XRONIA META",EP1
+http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
+#EXTINF:-0, group-title="LOGW TIMHS 20 XRONIA META",EP2
+http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
+#EXTINF:0, group-title="LOGW TIMHS 20 XRONIA META",EP3
+http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191010.mp4.m3u8
