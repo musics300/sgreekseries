@@ -9,6 +9,8 @@ http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
 #EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP5
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
+#EXTINF:-0, group-title="TEST",EP0
+https://starvod.akamaized.net/fhls/p/713821/sp/71382100/serveFlavor/entryId/1_im0o3snt/v/1/ev/7/flavorId/1_ayfkj279/name/a.mp4/index.m3u8
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP1
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP2
