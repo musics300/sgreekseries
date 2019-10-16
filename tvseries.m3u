@@ -15,7 +15,7 @@ http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
 #EXTINF:0, group-title="LOGW TIMHS 20 XRONIA META",EP3
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191010.mp4.m3u8
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP1&2
+#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",tvg-logo="http://greektv.pbworks.com/w/file/123483888/OPEN_HD.png",EP1&2
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
 #EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP3&4
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41dc-ad02-f46221ddcd0b/chunklist_b1725000.m3u8
