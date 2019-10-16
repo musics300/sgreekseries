@@ -9,8 +9,12 @@ http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
 #EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP5
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
-#EXTINF:-0, group-title="TEST",EP0
+#EXTINF:-0, group-title="TEST",EP01
 https://starvod.akamaized.net/fhls/p/713821/sp/71382100/serveFlavor/entryId/1_im0o3snt/v/1/ev/7/flavorId/1_ayfkj279/name/a.mp4/index.m3u8
+#EXTINF:-0, group-title="TEST",EP02
+https://antennavodsp-vh.akamaihd.net/i/VODS2/,1351b64e-18c9-42a5-989f-983f37f4e535,.mp4.csmil/index_0_av.m3u8?null=0&hdntl=exp=1571324924~acl=%2f*~data=hdntl~hmac=9f4789a6ecf5492c70bfadf5858278ee8bfb302fd3e86bbe56798726f20fac01
+#EXTINF:-0, group-title="TEST",EP03
+https://antennavodsp-vh.akamaihd.net/i/VODS2/,1351b64e-18c9-42a5-989f-983f37f4e535,.mp4.csmil/segment1_0_av.ts?null=0&hdntl=exp=1571324924~acl=/*~data=hdntl~hmac=9f4789a6ecf5492c70bfadf5858278ee8bfb302fd3e86bbe56798726f20fac01
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP1
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP2
