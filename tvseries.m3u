@@ -9,6 +9,8 @@ http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
 #EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP5
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
+#EXTINF:-0, group-title="TEST",EP0
+https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73176847_969808403366103_173750900673795230_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnlu7lyr2XVwB5tNyj0GXv0GT4rGVGqIPp9teljSLOvjpJKyEJseUHhgaupGGWhEMU&_nc_ht=scontent.fath2-1.fna&oh=21f2d84b5cf13f33b864f7c4390beed7&oe=5E307899
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP1
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP2
