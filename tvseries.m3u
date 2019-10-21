@@ -11,18 +11,6 @@ http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
 #EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP6
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191018.mp4.m3u8
-#EXTINF:-0, group-title="ΤΑΙΝΙΕΣ ΕΛΛΗΝΙΚΕΣ",ΑΙΓΑΙΟ SOS (2018)
-https://ph2dr7.oloadcdn.net/dl/l/gfZ2ouZtuf-pzHBl/9smOgG5Bn5I/AIGAIO+SOS+%282018%29+HDTV.mp4?mime=true
-#EXTINF:-0, group-title="ΤΑΙΝΙΕΣ ΕΛΛΗΝΙΚΕΣ",ΚΑΛΩΣ ΗΡΘΕ ΤΟ ΔΟΛΛΑΡΙΟ
-https://1fgqfmj.oloadcdn.net/dl/l/_l5FH9PM5wbUiG2z/n3ogg-VO0s8/kalws+hrthe+to+dollario+%281967%29+720p+HDTV.avi.mp4?mime=true
-#EXTINF:-0, group-title="ΤΑΙΝΙΕΣ ΕΛΛΗΝΙΚΕΣ",ΛΑΡΙΣΑ ΕΜΠΙΣΤΕΥΤΙΚΟ (2012)
-https://1fiag06.oloadcdn.net/dl/l/mVbkJhMfR9JTM8TE/cPBIvwPTgZc/%CE%9B%CE%91%CE%A1%CE%99%CE%A3%CE%91+%CE%95%CE%9C%CE%A0%CE%99%CE%A3%CE%A4%CE%95%CE%A5%CE%A4%CE%99%CE%9A%CE%9F+%282012%29+DVDRip.mkv.mp4?mime=true
-#EXTINF:-0, group-title="ΤΑΙΝΙΕΣ ΕΛΛΗΝΙΚΕΣ",SUCCESS STORY (2017)
-https://ph2drg.oloadcdn.net/dl/l/5cHRgCOG4GzEvp_-/SZJQ7UqZY0Y/SUCCESS+STORY+%282017%29.mkv.mp4?mime=true
-#EXTINF:-0, group-title="ΤΑΙΝΙΕΣ ΕΛΛΗΝΙΚΕΣ",THE BACHELOR 3 (2018)
-https://1fgqfmz.oloadcdn.net/dl/l/B948WI9v5HitpUFL/gIWawKwC5ZI/THE+BACHELOR+3+%282018%29+OWN+DVDRip.mkv.mp4?mime=true
-#EXTINF:-0, group-title="ΤΑΙΝΙΕΣ ΞΕΝΕΣ",Ο ΒΑΣΙΛΙΑΣ ΤΩΝ ΛΙΟΝΤΑΡΙΩΝ (2019)
-https://1fhjlpj.oloadcdn.net/dl/l/oJeK2UjhErkAC7JA/sxIkL3Eq9o0/THE+LION+KING+%28%CE%9F+%CE%92%CE%91%CE%A3%CE%99%CE%9B%CE%99%CE%91%CE%A3+%CE%A4%CE%A9%CE%9D+%CE%9B%CE%99%CE%9F%CE%9D%CE%A4%CE%91%CE%A1%CE%99%CE%A9%CE%9D%29+%282019%29+BRRip+x264+AC3.mkv.mp4?mime=true
 #EXTINF:-0, group-title="ΑΝΕΚΔΟΤΑ",Η ΚΟΚΚΙΝΟΣΚΟΥΦΙΤΣΑ ΚΑΙ Ο ΡΑΔΙΟΦΩΝΙΚΟΣ ΠΑΡΑΓΩΓΟΣ
 https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73176847_969808403366103_173750900673795230_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnlu7lyr2XVwB5tNyj0GXv0GT4rGVGqIPp9teljSLOvjpJKyEJseUHhgaupGGWhEMU&_nc_ht=scontent.fath2-1.fna&oh=21f2d84b5cf13f33b864f7c4390beed7&oe=5E307899
 #EXTINF:-0, group-title="ΑΝΕΚΔΟΤΑ",ΤΡΙΑ ΣΚΥΛΙΑ ΣΤΟΝ ΚΤΗΝΙΑΤΡΟ
@@ -43,10 +31,12 @@ http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191010.mp4.m3u8
 #EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP4
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimhs20191017bhbh.mp4.m3u8
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP1&2
+#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP01&02
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP3&4
+#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP03&04
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41dc-ad02-f46221ddcd0b/chunklist_b1725000.m3u8
+#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP05
+https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:bc703f5d-11d9-476c-911d-363542c421dd/chunklist_b1725000.m3u8
 #EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP1
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4?__token__=st=1570907565~exp=1571771565~acl=/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4*~hmac=3decfd8468a8e59253551e351ef340c8eb24c9bc5b13d1fabf55cbaaf668b833
 #EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP2
