@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP1
+#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
 http://videostream.skai.gr/201909/video/seires/polukatoikia20190925.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP2
+#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP02
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP3
+#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP03
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP4
+#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP04
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP5
+#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP05
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP6
+#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP06
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191018.mp4.m3u8
 #EXTINF:-0, group-title="ΑΝΕΚΔΟΤΑ",Η ΚΟΚΚΙΝΟΣΚΟΥΦΙΤΣΑ ΚΑΙ Ο ΡΑΔΙΟΦΩΝΙΚΟΣ ΠΑΡΑΓΩΓΟΣ
 https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73176847_969808403366103_173750900673795230_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnlu7lyr2XVwB5tNyj0GXv0GT4rGVGqIPp9teljSLOvjpJKyEJseUHhgaupGGWhEMU&_nc_ht=scontent.fath2-1.fna&oh=21f2d84b5cf13f33b864f7c4390beed7&oe=5E307899
@@ -23,13 +23,13 @@ https://soundcloud.com/gzrv/tsouvelas-mainstream-sport-24-radio
 https://eco.streams.ovh/notos/notos/chunklist_w2089494631.m3u8
 #EXTINF:-0, group-title="TEST",Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ - ΠΥΞ ΛΑΞ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/mixani-tou-xronou/20170714-mixani-tou-xronou.mp4/chunklist_w309609243.m3u8
-#EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP1
+#EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP01
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
-#EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP2
+#EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP02
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
-#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP3
+#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP03
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191010.mp4.m3u8
-#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP4
+#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP04
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimhs20191017bhbh.mp4.m3u8
 #EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP01&02
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
@@ -37,17 +37,17 @@ https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c1
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41dc-ad02-f46221ddcd0b/chunklist_b1725000.m3u8
 #EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP05
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:bc703f5d-11d9-476c-911d-363542c421dd/chunklist_b1725000.m3u8
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP1
+#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP01
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4?__token__=st=1570907565~exp=1571771565~acl=/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4*~hmac=3decfd8468a8e59253551e351ef340c8eb24c9bc5b13d1fabf55cbaaf668b833
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP2
+#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP02
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191003_MOURMOURA_S07_EP002_NEW_69bf5833.mp4?__token__=st=1570959682~exp=1571823682~acl=/2019-2020/mourmoura/20191003_MOURMOURA_S07_EP002_NEW_69bf5833.mp4*~hmac=7ccd7e5ace644c9e0d2ed51770b479e77c73e1dfef603d97ba5f72d9e57ec721
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP3
+#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP03
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191009_MOURMOURA_S07_EP003_c8a45afc.mp4?__token__=st=1570959637~exp=1571823637~acl=/2019-2020/mourmoura/20191009_MOURMOURA_S07_EP003_c8a45afc.mp4*~hmac=fe856db98f5f8d76ee83b7036f6849999257d31b5d07a97dd06fce90ae7f9568
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP4
+#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP04
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191010_MOURMOURA_S07_EP004_fe939051.mp4?__token__=st=1570959638~exp=1571823638~acl=/2019-2020/mourmoura/20191010_MOURMOURA_S07_EP004_fe939051.mp4*~hmac=ab0a34678cc732b4ee8c58c4d3509971fda3d554d65b91a2da1cd82630b8fb73
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP5
+#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP05
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191016_MOURMOURA_S07_EP005_bf3e5802.mp4?__token__=st=1571404493~exp=1572268493~acl=/2019-2020/mourmoura/20191016_MOURMOURA_S07_EP005_bf3e5802.mp4*~hmac=ceb8457b08a59f324964e38d240b90248533053f2ab8320ad5195dc3ce8a0005
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP6
+#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP06
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191017_MOURMOURA_S07_EP006_300e70e0.mp4?__token__=st=1571404493~exp=1572268493~acl=/2019-2020/mourmoura/20191017_MOURMOURA_S07_EP006_300e70e0.mp4*~hmac=80f29fb182d23ca1b94f0098c8d54b0b328ed8fa46a909980455823514800ecb
 #EXTINF:0, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP01
 https://alphavod.akamaized.net/2019-2020/spiti_einai/20190930_SPITI_EINAI_S01_EP001_FIX_e4470342.mp4?__token__=st=1570959957~exp=1571823957~acl=/2019-2020/spiti_einai/20190930_SPITI_EINAI_S01_EP001_FIX_e4470342.mp4*~hmac=91555d934a419930b7e6ff33ca53239beea725a5cd726c60da1bc111b2dccf99
@@ -63,29 +63,29 @@ https://alphavod.akamaized.net/2019-2020/spiti_einai/20191014_SPITI_EINAI_S01_EP
 https://alphavod.akamaized.net/2019-2020/spiti_einai/20191015_SPITI_EINAI_S01_EP006_fbebed1e.mp4?__token__=st=1571167373~exp=1572031373~acl=/2019-2020/spiti_einai/20191015_SPITI_EINAI_S01_EP006_fbebed1e.mp4*~hmac=e003bdaa52a45fcad095fd6fe8e6d15abb66f2f6d20121e019e69c014eb3f855
 #EXTINF:0, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP07
 https://alphavod.akamaized.net/2019-2020/spiti_einai/20191021_SPITI_EINAI_S01_EP007_6d532379.mp4?__token__=st=1571751143~exp=1572615143~acl=/2019-2020/spiti_einai/20191021_SPITI_EINAI_S01_EP007_6d532379.mp4*~hmac=4cbf413f11def9080f9f36a59f3d1f29059cdc909760f6e9cf3f8b6628d0b780
-#EXTINF:0, group-title="ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ",EP1
+#EXTINF:0, group-title="ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ",EP01
 https://alphavod.akamaized.net/2019-2020/kratas_mystiko/20191003_KRATAS_MYSTIKO_S01_EP001_NEW_c01bf40d.mp4?__token__=st=1570960033~exp=1571824033~acl=/2019-2020/kratas_mystiko/20191003_KRATAS_MYSTIKO_S01_EP001_NEW_c01bf40d.mp4*~hmac=e6eb0c48b802d6eab0379a16119a7826a3865a34d05073832b5b67e83e0a6fec
-#EXTINF:0, group-title="ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ",EP2
+#EXTINF:0, group-title="ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ",EP02
 https://alphavod.akamaized.net/2019-2020/kratas_mystiko/20191010_KRATAS_MYSTIKO_S01_EP002_04db4796.mp4?__token__=st=1570960111~exp=1571824111~acl=/2019-2020/kratas_mystiko/20191010_KRATAS_MYSTIKO_S01_EP002_04db4796.mp4*~hmac=e4ede09edfa1b0db8ab93cb18f31d6d5fbfc1f4a323c3069329d2608cb6ece77
-#EXTINF:0, group-title="ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ",EP3
+#EXTINF:0, group-title="ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ",EP03
 https://alphavod.akamaized.net/2019-2020/kratas_mystiko/20191017_KRATAS_MYSTIKO_S01_EP003_fb9677e0.mp4?__token__=st=1571404229~exp=1572268229~acl=/2019-2020/kratas_mystiko/20191017_KRATAS_MYSTIKO_S01_EP003_fb9677e0.mp4*~hmac=36c502a53398f97a150daf8297df841a2b92590e8ed116dd69c718258b9bf0e3
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP1
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP01
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190916_EROTAS_META_S01_EP001.mp4?__token__=st=1571055173~exp=1571919173~acl=/2019-2020/erotas_meta/20190916_EROTAS_META_S01_EP001.mp4*~hmac=ea6614a0f7f941c09c8286f4efcbf1cde08315a7292b3b25e82a6eb00c893f15
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP2
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP02
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190917_EROTAS_META_S01_EP002_2d4a160d.mp4?__token__=st=1571055173~exp=1571919173~acl=/2019-2020/erotas_meta/20190917_EROTAS_META_S01_EP002_2d4a160d.mp4*~hmac=faecc15877f6aa65653188c355cfa5de8dfe21a242c61f5f87ff60f5e7c05b04
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP3
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP03
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190918_EROTAS_META_S01_EP003_38cdd8cf.mp4?__token__=st=1571055173~exp=1571919173~acl=/2019-2020/erotas_meta/20190918_EROTAS_META_S01_EP003_38cdd8cf.mp4*~hmac=c6772ba0be0d35c75134ccd3dd72d4d1931ab11e317422f7a922dd24fc973fc2
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP4
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP04
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190923_EROTAS_META_S01_EP004_a66c8167.mp4?__token__=st=1571166836~exp=1572030836~acl=/2019-2020/erotas_meta/20190923_EROTAS_META_S01_EP004_a66c8167.mp4*~hmac=e20e60bede926b070b5f84abd27a86313323277aa030deba8973ec3b5ea9575e
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP5
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP05
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190924_EROTAS_META_S01_EP005_NEW_FIX_0f9c4ca5.mp4?__token__=st=1571166836~exp=1572030836~acl=/2019-2020/erotas_meta/20190924_EROTAS_META_S01_EP005_NEW_FIX_0f9c4ca5.mp4*~hmac=45effba8fa32dde05a4025f6ccd364bafd126611463ef961c103927ea1400e62
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP6
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP06
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190925_EROTAS_S01_EP006_NEW_705546b3.mp4?__token__=st=1571166836~exp=1572030836~acl=/2019-2020/erotas_meta/20190925_EROTAS_S01_EP006_NEW_705546b3.mp4*~hmac=a74e3e5ca42701de2cb20517e7891b54815baf6721face42de5980a75f9798e7
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP7
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP07
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20190930_EROTAS_META_S01_EP007_12e3ebab.mp4?__token__=st=1571166836~exp=1572030836~acl=/2019-2020/erotas_meta/20190930_EROTAS_META_S01_EP007_12e3ebab.mp4*~hmac=0fd9f1e0551b5ac1dfb6716b5e4cee9a92d1bc77cdc89f738f042f9c2389f992
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP8
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP08
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20191001_EROTAS_S01_EP008_55ce219f.mp4?__token__=st=1571167033~exp=1572031033~acl=/2019-2020/erotas_meta/20191001_EROTAS_S01_EP008_55ce219f.mp4*~hmac=2a86ad4acf0941ee11c1f5465163a32cfa69d456ffbeb1c70c158bc9f5649a04
-#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP9
+#EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP09
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20191002_EROTAS_S01_EP009_03aed48f.mp4?__token__=st=1571237976~exp=1572101976~acl=/2019-2020/erotas_meta/20191002_EROTAS_S01_EP009_03aed48f.mp4*~hmac=4c780e576cb30b16a39674d3151c095517a745a2a7b128aedbd1b59a180c7bc1
 #EXTINF:0, group-title="ΕΡΩΤΑΣ ΜΕΤΑ",EP10
 https://alphavod.akamaized.net/2019-2020/erotas_meta/20191007_EROTAS_META_S01_EP010_NEW_0c2b30a2.mp4?__token__=st=1571237976~exp=1572101976~acl=/2019-2020/erotas_meta/20191007_EROTAS_META_S01_EP010_NEW_0c2b30a2.mp4*~hmac=fd5751b168d7e4541fd18198bf108616821721a9ffd1489659275d2f13bf4293
