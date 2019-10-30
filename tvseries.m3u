@@ -13,6 +13,8 @@ http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191018.mp4.m3u8
 #EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP07
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191025.mp4.m3u8
+#EXTINF:-0, group-title="ΙΝ ΤΗΕ ΜΙΧ!!",80s-90s The Party No4
+https://gcs-vimeo.akamaized.net/exp=1572469625~acl=%2A%2F486546597.mp4%2A~hmac=20d0329e35c9999822cc0dbba9ca90af21666ef1cdd46805dcd760c1a4a52e63/vimeo-prod-skyfire-std-us/01/1310/6/156553712/486546597.mp4
 #EXTINF:-0, group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
 #EXTINF:-0, group-title="ΑΣΤΕΙΑ VIDEOS",ΑΝΑΣΤΡΟΦΗ
