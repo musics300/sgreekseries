@@ -35,7 +35,7 @@ http://www.uruguayfrance.fr/wp/wp-content/uploads/contact.png
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/mixani-tou-xronou/20170714-mixani-tou-xronou.mp4/chunklist_w309609243.m3u8
 #EXTINF:-0, group-title="TEST",VIDEO ΑΠΟ VIMEO
 https://gcs-vimeo.akamaized.net/exp=1572275351~acl=%2A%2F939111048.mp4%2A~hmac=0b1b0a4555cdb21f7f8b1cf4a1afd470b49a860265e33262c436b9af8ccdc356/vimeo-prod-skyfire-std-us/01/1318/10/256590553/939111048.mp4
-#EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP01
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP1
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 #EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP02
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
