@@ -29,7 +29,7 @@ https://alphavod.akamaized.net/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp
 https://alphavod.akamaized.net/2019-2020/autopsia/20191017_AYTOPSIA_S09_EP002.mp4?__token__=st=1571857637~exp=1572721637~acl=/2019-2020/autopsia/20191017_AYTOPSIA_S09_EP002.mp4*~hmac=741f7ce9a1974ec850d0fdbdcd9b5b4fb21d02ffdadfabded9847ce5d4aa60c9
 #EXTINF:-0, group-title="TEST",NOTOS FM WEB TV
 https://eco.streams.ovh/notos/notos/chunklist_w2089494631.m3u8
-#EXTINF:-0, group-title="ΝΕΕΣ ΣΕΙΡΕΣ",Ζ
+#EXTINF:-1 group-title="ΝΕΕΣ ΣΕΙΡΕΣ" tvg-name="Ζ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",Ζ
 http://www.uruguayfrance.fr/wp/wp-content/uploads/contact.png
 #EXTINF:-0, group-title="TEST",Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ - ΠΥΞ ΛΑΞ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/mixani-tou-xronou/20170714-mixani-tou-xronou.mp4/chunklist_w309609243.m3u8
