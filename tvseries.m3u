@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
+http://videostream.skai.gr/201909/video/seires/polukatoikia20190924.mp4.m3u8
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP02
 http://videostream.skai.gr/201909/video/seires/polukatoikia20190925.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP02
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP03
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP03
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP04
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP04
-http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP05
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP05
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP06
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP06
 http://videostream.skai.gr/201910/video/seires/polukatoikia20191018.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP07
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP07
 http://videostream.skai.gr/201910/video/seires/polikatoikia20191025.mp4.m3u8
-#EXTINF:-0, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP08
+#EXTINF:-1, group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP08
 http://videostream.skai.gr/201911/video/seires/polykatoikia20191101fsdkj.mp4.m3u8
-#EXTINF:-0, group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
+#EXTINF:-1, group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
-#EXTINF:-0, group-title="ΑΣΤΕΙΑ VIDEOS",ΑΝΑΣΤΡΟΦΗ
+#EXTINF:-1, group-title="ΑΣΤΕΙΑ VIDEOS",ΑΝΑΣΤΡΟΦΗ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/c365d9221c414662ae8e01f0b88c4747.mp4
-#EXTINF:-0, group-title="ΑΣΤΕΙΑ VIDEOS",ΠΑΡΚΑΡΙΣΜΑ
+#EXTINF:-1, group-title="ΑΣΤΕΙΑ VIDEOS",ΠΑΡΚΑΡΙΣΜΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/2da338ccd9854f27be1d63f13916375c.mp4
-#EXTINF:-0, group-title="ΑΝΕΚΔΟΤΑ",Η ΚΟΚΚΙΝΟΣΚΟΥΦΙΤΣΑ ΚΑΙ Ο ΡΑΔΙΟΦΩΝΙΚΟΣ ΠΑΡΑΓΩΓΟΣ
+#EXTINF:-1, group-title="ΑΝΕΚΔΟΤΑ",Η ΚΟΚΚΙΝΟΣΚΟΥΦΙΤΣΑ ΚΑΙ Ο ΡΑΔΙΟΦΩΝΙΚΟΣ ΠΑΡΑΓΩΓΟΣ
 https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73176847_969808403366103_173750900673795230_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnlu7lyr2XVwB5tNyj0GXv0GT4rGVGqIPp9teljSLOvjpJKyEJseUHhgaupGGWhEMU&_nc_ht=scontent.fath2-1.fna&oh=21f2d84b5cf13f33b864f7c4390beed7&oe=5E307899
-#EXTINF:-0, group-title="ΑΝΕΚΔΟΤΑ",ΤΡΙΑ ΣΚΥΛΙΑ ΣΤΟΝ ΚΤΗΝΙΑΤΡΟ
+#EXTINF:-1, group-title="ΑΝΕΚΔΟΤΑ",ΤΡΙΑ ΣΚΥΛΙΑ ΣΤΟΝ ΚΤΗΝΙΑΤΡΟ
 https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73075618_690377288039678_5499555751660646103_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnHuF03eMVKbTyUJ_myUDADT48-J1FNZQhBAHGxySsjbv6-QDULklNdhd1SQ4n0Qks&_nc_ht=scontent.fath2-1.fna&oh=79e7b44d792db6b05adb1ee9d240c201&oe=5E6567C3
-#EXTINF:-0, group-title="ΑΝΕΚΔΟΤΑ",Ο ΣΟΥΠΕΡΜΑΝ ΔΕΝ ΕΒΓΑΛΕ ΦΛΑΣ
+#EXTINF:-1, group-title="ΑΝΕΚΔΟΤΑ",Ο ΣΟΥΠΕΡΜΑΝ ΔΕΝ ΕΒΓΑΛΕ ΦΛΑΣ
 https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/72853006_1534555120045004_4186256693346432092_n.mp4?_nc_cat=108&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnN6SatmXhppI2ZOh5VhZJStjtJhkpNZRhXeYb0mOmCge3t2Ee_LQ3yAcxT2H2n2Sw&_nc_ht=scontent.fath2-1.fna&oh=b7f25a81d44b9bb62efd16f427403a71&oe=5E26FA9F
-#EXTINF:-0, group-title="ΑΥΤΟΨΙΑ",10/10/2019
+#EXTINF:-1, group-title="ΑΥΤΟΨΙΑ",10/10/2019
 https://alphavod.akamaized.net/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp4?__token__=st=1572865640~exp=1573729640~acl=/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp4*~hmac=91167df819ab1705974ef6cbdb7d0904e90e281322c55b9de9505fe6c5515026
-#EXTINF:-0, group-title="ΑΥΤΟΨΙΑ",17/10/2019
+#EXTINF:-1, group-title="ΑΥΤΟΨΙΑ",17/10/2019
 https://alphavod.akamaized.net/2019-2020/autopsia/20191017_AYTOPSIA_S09_EP002.mp4?__token__=st=1572865640~exp=1573729640~acl=/2019-2020/autopsia/20191017_AYTOPSIA_S09_EP002.mp4*~hmac=52e67e5e2ea54f6817b5011a40fbd5d268052038d56da010cc39a58cc6632f25
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP1
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP01
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
-#EXTINF:-0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP02
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP02
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
-#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP03
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP03
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191010.mp4.m3u8
-#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP04
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP04
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimhs20191017bhbh.mp4.m3u8
-#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP05
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP05
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191024_gbhs.mp4.m3u8
-#EXTINF:0, group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ",EP06
+#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP06
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191031sdffs.mp4.m3u8
-#EXTINF:0, group-title="KITCHEN LAB",02/11/2019
+#EXTINF:-1, group-title="KITCHEN LAB",02/11/2019
 https://www.youtube.com/watch?v=uut1IxL86To
-#EXTINF:0, group-title="KITCHEN LAB",03/11/2019
+#EXTINF:-1, group-title="KITCHEN LAB",03/11/2019
 https://www.youtube.com/watch?time_continue=1&v=Iu52N9yNoxM
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP01&02
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="http://www.metrosport.gr/images/thumbs_large/6g0TQNAiLgyH9lsiztF5.jpg",EP01&02
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP03&04
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP03&04
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41dc-ad02-f46221ddcd0b/chunklist_b1725000.m3u8
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP05
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP05
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:bc703f5d-11d9-476c-911d-363542c421dd/chunklist_b1725000.m3u8
-#EXTINF:0, group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP06
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP06
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:0e74c3f3-1209-4b57-b2fe-444c5d595012.mp4/chunklist.m3u8
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP01
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP01
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4?__token__=st=1570907565~exp=1571771565~acl=/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4*~hmac=3decfd8468a8e59253551e351ef340c8eb24c9bc5b13d1fabf55cbaaf668b833
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP02
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP02
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191003_MOURMOURA_S07_EP002_NEW_69bf5833.mp4?__token__=st=1570959682~exp=1571823682~acl=/2019-2020/mourmoura/20191003_MOURMOURA_S07_EP002_NEW_69bf5833.mp4*~hmac=7ccd7e5ace644c9e0d2ed51770b479e77c73e1dfef603d97ba5f72d9e57ec721
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP03
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP03
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191009_MOURMOURA_S07_EP003_c8a45afc.mp4?__token__=st=1570959637~exp=1571823637~acl=/2019-2020/mourmoura/20191009_MOURMOURA_S07_EP003_c8a45afc.mp4*~hmac=fe856db98f5f8d76ee83b7036f6849999257d31b5d07a97dd06fce90ae7f9568
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP04
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP04
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191010_MOURMOURA_S07_EP004_fe939051.mp4?__token__=st=1570959638~exp=1571823638~acl=/2019-2020/mourmoura/20191010_MOURMOURA_S07_EP004_fe939051.mp4*~hmac=ab0a34678cc732b4ee8c58c4d3509971fda3d554d65b91a2da1cd82630b8fb73
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP05
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP05
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191016_MOURMOURA_S07_EP005_bf3e5802.mp4?__token__=st=1571404493~exp=1572268493~acl=/2019-2020/mourmoura/20191016_MOURMOURA_S07_EP005_bf3e5802.mp4*~hmac=ceb8457b08a59f324964e38d240b90248533053f2ab8320ad5195dc3ce8a0005
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP06
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP06
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191017_MOURMOURA_S07_EP006_300e70e0.mp4?__token__=st=1571404493~exp=1572268493~acl=/2019-2020/mourmoura/20191017_MOURMOURA_S07_EP006_300e70e0.mp4*~hmac=80f29fb182d23ca1b94f0098c8d54b0b328ed8fa46a909980455823514800ecb
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP07
+#EXTINF:0-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP07
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191023_MOURMOURA_S07_EP007_b19e741e.mp4?__token__=st=1571915850~exp=1572779850~acl=/2019-2020/mourmoura/20191023_MOURMOURA_S07_EP007_b19e741e.mp4*~hmac=9306d361da7b78a50a6ee0c65fab1f809cb8bd533def12d65f771f3ed92866b3
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP08
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP08
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191024_MOURMOURA_S07_EP008_432b9376.mp4?__token__=st=1572179875~exp=1573043875~acl=/2019-2020/mourmoura/20191024_MOURMOURA_S07_EP008_432b9376.mp4*~hmac=aed75e4dc61f5a7fa3444cd7c1db7dc3b0ad0f37f9e2884da07643fd66fa11e4
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP09
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP09
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191030_MOURMOURA_S07_EP009_71efeb63.mp4?__token__=st=1572778153~exp=1573642153~acl=/2019-2020/mourmoura/20191030_MOURMOURA_S07_EP009_71efeb63.mp4*~hmac=5abfc6b9edb662656e1aa77bf519ea45039f84eb4a2350d9bef0ac6feced09f3
-#EXTINF:0, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP10
+#EXTINF:-1, group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP10
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191031_MOURMOURA_S07_EP010_f2a04d6b.mp4?__token__=st=1572778153~exp=1573642153~acl=/2019-2020/mourmoura/20191031_MOURMOURA_S07_EP010_f2a04d6b.mp4*~hmac=4f5192f1b785cf681495f4211d287ec817200168a0ad464aa891891804b32df2
-#EXTINF:0, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP01
+#EXTINF:-1, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP01
 https://alphavod.akamaized.net/2019-2020/spiti_einai/20190930_SPITI_EINAI_S01_EP001_FIX_e4470342.mp4?__token__=st=1570959957~exp=1571823957~acl=/2019-2020/spiti_einai/20190930_SPITI_EINAI_S01_EP001_FIX_e4470342.mp4*~hmac=91555d934a419930b7e6ff33ca53239beea725a5cd726c60da1bc111b2dccf99
-#EXTINF:0, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP02
+#EXTINF:-1, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP02
 https://alphavod.akamaized.net/2019-2020/spiti_einai/20191001_SPITI_EINAI_S01_EP002_2b6a35c1.mp4?__token__=st=1570959957~exp=1571823957~acl=/2019-2020/spiti_einai/20191001_SPITI_EINAI_S01_EP002_2b6a35c1.mp4*~hmac=cd13b47f6f600c5b800c9f72dc2d3bcbc650203f7cd1e140d63766a4db774420
 #EXTINF:0, group-title="ΣΠΙΤΙ ΕΙΝΑΙ",EP03
 https://alphavod.akamaized.net/2019-2020/spiti_einai/20191007_SPITI_EINAI_S01_EP003_e9b0381a.mp4?__token__=st=1570960188~exp=1571824188~acl=/2019-2020/spiti_einai/20191007_SPITI_EINAI_S01_EP003_e9b0381a.mp4*~hmac=8a05af678ee69283caf23919e5c2462db2648c1269f96f14b6283fd3226022fa
