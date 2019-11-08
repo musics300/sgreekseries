@@ -61,6 +61,16 @@ https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41d
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:bc703f5d-11d9-476c-911d-363542c421dd/chunklist_b1725000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP06
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:0e74c3f3-1209-4b57-b2fe-444c5d595012.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:2f74c249-b0e1-40ce-8d4d-7b444abc6f2e.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP03
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:b6cf2266-e1a1-460a-ace6-f86d5984256f.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP04
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:d22381ca-0b0b-4772-96c1-6753d448b0cb.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP05
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9a593cc2-2e60-43ed-8105-9eb2da04c750.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP01
 https://alphavod.akamaized.net/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4?__token__=st=1570907565~exp=1571771565~acl=/2019-2020/mourmoura/20191002_MOURMOURA_S07_EP001_NEW_4943d73d.mp4*~hmac=3decfd8468a8e59253551e351ef340c8eb24c9bc5b13d1fabf55cbaaf668b833
 #EXTINF:-1 group-title="ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗΝ ΜΟΥΡΜΟΥΡΑ",S7EP02
