@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="WEB TV",TV GOLD
+#EXTINF:-1 group-title="GOLD TV"
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
 http://videostream.skai.gr/201909/video/seires/polukatoikia20190924.mp4.m3u8
@@ -43,6 +43,8 @@ https://alphavod.akamaized.net/2019-2020/autopsia/20191121_AYTOPSIA_S09_EP004_b4
 https://alphavod.akamaized.net/2019-2020/autopsia/20191205_AYTOPSIA_S09_EP005_a1a77c35.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191205_AYTOPSIA_S09_EP005_a1a77c35.mp4*~hmac=9e425b5002dad8ee29a8d88a2c59683fa9c0d8fbdb3a8f65dcd41fea49d44c5a
 EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",19/12/2019
 https://alphavod.akamaized.net/2019-2020/autopsia/20191219_AYTOPSIA_S09_EP006_FIX_e6acb0a9.mp4?__token__=st=1578307282~exp=1579171282~acl=/2019-2020/autopsia/20191219_AYTOPSIA_S09_EP006_FIX_e6acb0a9.mp4*~hmac=994e7085587e7456684ad1141083ab8014502be04ee89d63f59c50095690199c
+EXTINF:-1 group-title="ΜΕΣΑΝΥΧΤΑ",18/12/2019
+https://alphavod.akamaized.net/2019-2020/mesanyxta/20191219_MESANYXTA_S02_EP024.mp4?__token__=st=1578481952~exp=1579345952~acl=/2019-2020/mesanyxta/20191219_MESANYXTA_S02_EP024.mp4*~hmac=764c80505fd4a2e15b3791551069a5b0b91bd04eff3241277c3988ad17a33917
 #EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP01
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 #EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP02
@@ -71,6 +73,22 @@ https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41d
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:bc703f5d-11d9-476c-911d-363542c421dd/chunklist_b1725000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP06
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:0e74c3f3-1209-4b57-b2fe-444c5d595012.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP07
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:6da8001b-609a-4f99-981b-4a01d65b2426.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP08
+ttps://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:b6903803-2219-4ab1-8d7f-ca17179bebd1/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP09
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:cce8550f-0454-4034-98c7-6f89ab668451/chunklist_b1045000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP10
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:2ebeecda-19e3-43e7-b171-e08a6bc5d00d/chunklist_b1045000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP11
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:0304fad3-620b-4ff5-aa52-5bd76b2b545a/chunklist_b1045000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP12
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:3a24a241-82de-45c1-a6ef-674c99ac8af7/chunklist_b1045000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP13
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:08619be9-7e1b-4d89-8bca-6364ea10ac2e/chunklist_b1045000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP14
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:f51c4edb-31e9-4e68-910a-96b6eae1a11c.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
