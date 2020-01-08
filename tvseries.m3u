@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="GOLD TV"
+#EXTINF:-1 group-title="GOLD TV",OLD GREEK TV
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
 http://videostream.skai.gr/201909/video/seires/polukatoikia20190924.mp4.m3u8
