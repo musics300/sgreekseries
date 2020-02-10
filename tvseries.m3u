@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="GOLD TV",OLD GREEK TV
+#EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
+#EXTINF:-1 group-title="AKIS FOOD TOUR",EP01
+https://www.youtube.com/watch?time_continue=2&v=me1uWyKSwmw&feature=emb_logo
+#EXTINF:-1 group-title="AKIS FOOD TOUR",EP02
+https://www.youtube.com/watch?time_continue=2&v=933R63gN13Q&feature=emb_logo
+#EXTINF:-1 group-title="MY GREECE",ΡΟΔΟΣ
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6b06f304-571e-42f1-a662-44c6795031e0.MP4/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
+https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:7ed3e8bf-ea2b-4272-b68b-7deab78b1fc2.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 2
+https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:e87a93fa-4145-433a-8d23-20883183ed16.MP4/chunklist.m3u8
 #EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
 http://videostream.skai.gr/201909/video/seires/polukatoikia20190924.mp4.m3u8
 #EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP02
@@ -25,12 +35,6 @@ https://fdlvideosec.akamaized.net/media-assets/zougla/video/c365d9221c414662ae8e
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/2da338ccd9854f27be1d63f13916375c.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",SCARY
 https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/10000000_2444550165636489_8659953147072857462_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQmv39nBsISO-UIsTU7LVQszDnoIsrOv7FeiBQ1qPx4xNfjKvtt6i8zBfaJ1oXG24NE&_nc_ht=scontent.fath2-1.fna&oh=fb4ec75bce6be123253bec1412307da5&oe=5E473DD5
-#EXTINF:-1 group-title="ΑΝΕΚΔΟΤΑ",Η ΚΟΚΚΙΝΟΣΚΟΥΦΙΤΣΑ ΚΑΙ Ο ΡΑΔΙΟΦΩΝΙΚΟΣ ΠΑΡΑΓΩΓΟΣ
-https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73176847_969808403366103_173750900673795230_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnlu7lyr2XVwB5tNyj0GXv0GT4rGVGqIPp9teljSLOvjpJKyEJseUHhgaupGGWhEMU&_nc_ht=scontent.fath2-1.fna&oh=21f2d84b5cf13f33b864f7c4390beed7&oe=5E307899
-#EXTINF:-1 group-title="ΑΝΕΚΔΟΤΑ",ΤΡΙΑ ΣΚΥΛΙΑ ΣΤΟΝ ΚΤΗΝΙΑΤΡΟ
-https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/73075618_690377288039678_5499555751660646103_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnHuF03eMVKbTyUJ_myUDADT48-J1FNZQhBAHGxySsjbv6-QDULklNdhd1SQ4n0Qks&_nc_ht=scontent.fath2-1.fna&oh=79e7b44d792db6b05adb1ee9d240c201&oe=5E6567C3
-#EXTINF:-1 group-title="ΑΝΕΚΔΟΤΑ",Ο ΣΟΥΠΕΡΜΑΝ ΔΕΝ ΕΒΓΑΛΕ ΦΛΑΣ
-https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/72853006_1534555120045004_4186256693346432092_n.mp4?_nc_cat=108&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQnN6SatmXhppI2ZOh5VhZJStjtJhkpNZRhXeYb0mOmCge3t2Ee_LQ3yAcxT2H2n2Sw&_nc_ht=scontent.fath2-1.fna&oh=b7f25a81d44b9bb62efd16f427403a71&oe=5E26FA9F
 #EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",10/10/2019
 https://alphavod.akamaized.net/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp4*~hmac=47cd68cfceaeac281b1d0c2a1545d40067f2ecf472ae6b36659e175c038ad2e5
 #EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",17/10/2019
@@ -87,6 +91,16 @@ https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:3a24a241-82de-45c
 https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:08619be9-7e1b-4d89-8bca-6364ea10ac2e/chunklist_b1045000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP14
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:f51c4edb-31e9-4e68-910a-96b6eae1a11c.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP15
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:fefc28e9-e105-4c97-8c1e-90f4d034d695/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP16
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:dfd785d2-b842-42fa-9b7b-02755f87d918/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP17
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:85256073-627f-4f16-b00f-7f2d2321932b/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP18
+https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6320402a-fc64-4127-9aa2-c4a9078a24ab/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP19
+https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:95d3440b-236b-415e-b5ca-9662f1c64652.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
