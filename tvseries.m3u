@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP01
-https://www.youtube.com/watch?time_continue=2&v=me1uWyKSwmw&feature=emb_logo
+https://www.youtube.com/watch?v=hTGXdmjOq3w
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP02
-https://www.youtube.com/watch?time_continue=2&v=933R63gN13Q&feature=emb_logo
+https://www.youtube.com/watch?v=4IBMPdT4V8c
 #EXTINF:-1 group-title="MY GREECE",ΡΟΔΟΣ
 https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6b06f304-571e-42f1-a662-44c6795031e0.MP4/chunklist_b666000.m3u8
 #EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
@@ -62,11 +62,11 @@ http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191031sdffs.mp4.m3u8
 #EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP07
 http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191107_hyuj.mp4.m3u8
 #EXTINF:-1, group-title="KITCHEN LAB",02/11/2019
-https://www.youtube.com/watch?v=uut1IxL86To
+https://www.youtube.com/watch?v=uut1IxL86To&feature=emb_logo
 #EXTINF:-1, group-title="KITCHEN LAB",03/11/2019
-https://www.youtube.com/watch?time_continue=1&v=Iu52N9yNoxM
+https://www.youtube.com/watch?time_continue=8&v=Iu52N9yNoxM&feature=emb_logo
 #EXTINF:-1, group-title="KITCHEN LAB",09/11/2019
-https://www.youtube.com/watch?time_continue=1&v=K0idFGIZ31Y&feature=emb_logo
+https://www.youtube.com/watch?time_continue=2&v=K0idFGIZ31Y&feature=emb_logo
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="http://www.metrosport.gr/images/thumbs_large/6g0TQNAiLgyH9lsiztF5.jpg",EP01&02
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP03&04
