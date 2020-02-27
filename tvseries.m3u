@@ -5,6 +5,10 @@ http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 https://www.youtube.com/watch?v=hTGXdmjOq3w
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP02
 https://www.youtube.com/watch?v=4IBMPdT4V8c
+#EXTINF:-1 group-title="AKIS FOOD TOUR",EP03
+https://www.youtube.com/watch?v=y7KL_LGxHcY&feature=emb_logo
+#EXTINF:-1 group-title="AKIS FOOD TOUR",EP04
+https://www.youtube.com/watch?time_continue=3&v=uMQ7viKjbQg&feature=emb_logo
 #EXTINF:-1 group-title="MY GREECE",ΡΟΔΟΣ
 https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6b06f304-571e-42f1-a662-44c6795031e0.MP4/chunklist_b666000.m3u8
 #EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
