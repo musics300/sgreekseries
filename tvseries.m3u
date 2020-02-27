@@ -101,6 +101,10 @@ https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:85256073-627f-4f1
 https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6320402a-fc64-4127-9aa2-c4a9078a24ab/chunklist_b666000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP19
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:95d3440b-236b-415e-b5ca-9662f1c64652.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP20
+https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:37606c69-3974-434a-8017-343d965b7000/chunklist_b1725000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP21
+https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:d3d50072-02f0-4d75-8f29-01532720fbf3/chunklist_b1725000.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
