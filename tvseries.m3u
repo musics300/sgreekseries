@@ -3,6 +3,10 @@
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑ ΣΤΕΚΙΑ",ΤΑ ΚΟΜΙΞΑΔΙΚΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20191214-ta-stekia.mp4/chunklist_w538668024.m3u8
+#EXTINF:-1 group-title="ΤΑ ΣΤΕΚΙΑ",ΤΟ ΨΙΛΙΚΑΤΖΙΔΙΚΟ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190630-ta-stekia.mp4/chunklist_w1044813061.m3u8
+#EXTINF:-1 group-title="ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190616-ta-stekia.mp4/chunklist_w15573107.m3u8
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP01
 https://www.youtube.com/watch?v=hTGXdmjOq3w
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP02
@@ -39,20 +43,6 @@ https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/c365d9221c414662ae8e01f0b88c4747.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΠΑΡΚΑΡΙΣΜΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/2da338ccd9854f27be1d63f13916375c.mp4
-#EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",SCARY
-https://scontent.fath2-1.fna.fbcdn.net/v/t39.24130-6/10000000_2444550165636489_8659953147072857462_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQmv39nBsISO-UIsTU7LVQszDnoIsrOv7FeiBQ1qPx4xNfjKvtt6i8zBfaJ1oXG24NE&_nc_ht=scontent.fath2-1.fna&oh=fb4ec75bce6be123253bec1412307da5&oe=5E473DD5
-#EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",10/10/2019
-https://alphavod.akamaized.net/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191010_AYTOPSIA_S09_EP001.mp4*~hmac=47cd68cfceaeac281b1d0c2a1545d40067f2ecf472ae6b36659e175c038ad2e5
-#EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",17/10/2019
-https://alphavod.akamaized.net/2019-2020/autopsia/20191017_AYTOPSIA_S09_EP002.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191017_AYTOPSIA_S09_EP002.mp4*~hmac=b28d130ed7833b4dfe63a9946007e102bc7289887dbe4df0dc514ac5ae903f05
-#EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",07/11/2019
-https://alphavod.akamaized.net/2019-2020/autopsia/20191107_AYTOPSIA_S09_EP003_FIX.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191107_AYTOPSIA_S09_EP003_FIX.mp4*~hmac=1eb6b5f866f95240309f4cc6d85b1366719ed8d824f0124e93c9daf690064a13
-#EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",21/11/2019
-https://alphavod.akamaized.net/2019-2020/autopsia/20191121_AYTOPSIA_S09_EP004_b4ba0887.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191121_AYTOPSIA_S09_EP004_b4ba0887.mp4*~hmac=0b106e73f636620b41bf82dbb35c3fc1a2af63c8e922e68d00c388ce990918a7
-#EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",05/12/2019
-https://alphavod.akamaized.net/2019-2020/autopsia/20191205_AYTOPSIA_S09_EP005_a1a77c35.mp4?__token__=st=1578307090~exp=1579171090~acl=/2019-2020/autopsia/20191205_AYTOPSIA_S09_EP005_a1a77c35.mp4*~hmac=9e425b5002dad8ee29a8d88a2c59683fa9c0d8fbdb3a8f65dcd41fea49d44c5a
-EXTINF:-1 group-title="ΑΥΤΟΨΙΑ",19/12/2019
-https://alphavod.akamaized.net/2019-2020/autopsia/20191219_AYTOPSIA_S09_EP006_FIX_e6acb0a9.mp4?__token__=st=1578307282~exp=1579171282~acl=/2019-2020/autopsia/20191219_AYTOPSIA_S09_EP006_FIX_e6acb0a9.mp4*~hmac=994e7085587e7456684ad1141083ab8014502be04ee89d63f59c50095690199c
 #EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP01
 http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
 #EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP02
