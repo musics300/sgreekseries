@@ -1,14 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑ ΣΤΕΚΙΑ",ΤΑ ΚΟΜΙΞΑΔΙΚΑ
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171102-ta-stekia.mp4/chunklist_w768286455.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΣΤΟΕΣ ΤΗΣ ΠΟΛΗΣ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20170820-ta-stekia.mp4/chunklist_w2061433046.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΛΑΙΚΗ ΑΓΟΡΑ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171008-ta-stekia.mp4/chunklist_w2067189338.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΝΤΙΣΚΟΤΕΚ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20170917-ta-stekia.mp4/chunklist_w724298545.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΠΛΑΖ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20Plaz_webTV24072014.mp4/chunklist_w1754766282.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΤΑΒΕΡΝΑ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20H%20Taverna%20-%20WebTV.mp4/chunklist_w1764989031.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΓΗΠΕΔΑ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20To%20Gipedo%20-%20WebTV.mp4/chunklist_w1576554037.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΔΙΑΝΥΚΤΕΡΕΥΟΝΤΑ
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171228-ta-stekia.mp4/chunklist_w6345340.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΚΟΜΙΞΑΔΙΚΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20191214-ta-stekia.mp4/chunklist_w538668024.m3u8
-#EXTINF:-1 group-title="ΤΑ ΣΤΕΚΙΑ",ΤΟ ΨΙΛΙΚΑΤΖΙΔΙΚΟ
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΨΙΛΙΚΑΤΖΙΔΙΚΟ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190630-ta-stekia.mp4/chunklist_w1044813061.m3u8
-#EXTINF:-1 group-title="ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
+#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190616-ta-stekia.mp4/chunklist_w15573107.m3u8
-#EXTINF:-1 group-title="ΒΕΡΓΙΝΑ TV",ΘΕΣΣΑΛΟΝΙΚΗ
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CqsE6Cwoum7dyDf_LylUFVx0W_Zjr3PF1OoVqONSbMq2huOizsZ7acMNIAoOPLFPUCcmpRBfWzeHPtxgVRP65dhvuhFkaka4H0dbIeYnwif4vLQQktpR4uRKeTPhZ8O0X4wihmL6KJzQhCwDLPU_1n5pI62sS_95DQa7e84-zIhtzziaxQ2mBbD_BxGDR4f-yO_ZJYEQc0Tob0QeBQA5KRr4GFki5DfwB4aRwZKt_b6ovdMr_QvTyNHl7zyn12tSZRyWp9wPv8nIoSkQB2-34L5HSaFLvWoF2Tbv_0vLi598EiZQrKDb_qAuob5ZBmaBVR-xNXpxb8trvUEY_n5217R1QvJAPhnhUKz4yExzOw6zNIZ29RSpCJuhgkZD8C7T1LzDPDmIY9jDi2afeCQB04b3BIHCpBli_Zxg9LIRl94sfZrCxltqsRaDTEV30W57l8llZJH_VPV10VTwPkC2lagFL7-fh8qEp1EFmORpKpk415E7AQZTQHWhzpebk6cvx0I22L4En_OcXPg6tB_uY8APJUZL-zgJSoEWkW2pbVDFhONtgTdUf5us7XG-bXvempwGsZRXQXrIfbZJkiDQGQ2NLxNR1f7aQuxl0U4BeIZO0vVwa-wFzJwgCt5xiYZdZDxFzFlQ3tGPGm9XvLisoJmt-X4d8CSsZgI1P92PG9RAVNKGOTljfZHLaYWNSias9-zf9OLgBd2TVc0JmcBjn26H_wQM406PVvvd24S7EhCgFRnH15ksfgYLIjrVIAfDGgwf4yOVNqqfsqQgkw0.m3u8
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP01
 https://www.youtube.com/watch?v=hTGXdmjOq3w
 #EXTINF:-1 group-title="AKIS FOOD TOUR",EP02
@@ -45,26 +61,6 @@ https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/c365d9221c414662ae8e01f0b88c4747.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΠΑΡΚΑΡΙΣΜΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/2da338ccd9854f27be1d63f13916375c.mp4
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP01
-http://videostream.skai.gr/201909/video/logwtimisapopse20190923.mp4.m3u8
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP02
-http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20190930.mp4.m3u8
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP03
-http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191010.mp4.m3u8
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP04
-http://videostream.skai.gr/GrCyTargeting/timhs/logotimhs20191017bhbh.mp4.m3u8
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP05
-http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191024_gbhs.mp4.m3u8
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP06
-http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191031sdffs.mp4.m3u8
-#EXTINF:-1 group-title="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="https://www.athinorama.gr/lmnts/articles/2537746/logw-timis-skai_226201.jpg",EP07
-http://videostream.skai.gr/GrCyTargeting/timhs/logotimis20191107_hyuj.mp4.m3u8
-#EXTINF:-1, group-title="KITCHEN LAB",02/11/2019
-https://www.youtube.com/watch?v=uut1IxL86To&feature=emb_logo
-#EXTINF:-1, group-title="KITCHEN LAB",03/11/2019
-https://www.youtube.com/watch?time_continue=8&v=Iu52N9yNoxM&feature=emb_logo
-#EXTINF:-1, group-title="KITCHEN LAB",09/11/2019
-https://www.youtube.com/watch?time_continue=2&v=K0idFGIZ31Y&feature=emb_logo
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ" tvg-name="ΛΟΓΩ ΤΙΜΗΣ 20 ΧΡΟΝΙΑ ΜΕΤΑ" tvg-logo="http://www.metrosport.gr/images/thumbs_large/6g0TQNAiLgyH9lsiztF5.jpg",EP01&02
 https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP03&04
@@ -103,6 +99,10 @@ https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:95d3440b-236b-4
 https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:37606c69-3974-434a-8017-343d965b7000/chunklist_b1725000.m3u8
 #EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP21
 https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:d3d50072-02f0-4d75-8f29-01532720fbf3/chunklist_b1725000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP22
+https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:7966f7f9-48ac-4447-81bd-de1d74078223/chunklist_b666000.m3u8
+#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP23
+https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:76bb1e23-ea09-483d-80c9-387570db4b54/chunklist_b666000.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
