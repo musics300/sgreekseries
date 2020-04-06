@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
+#EXTINF:-1 group-title="LIVE FACEBOOK",TEST
+https://video.fath2-1.fna.fbcdn.net/v/t42.26565-2/10000000_918523341916932_8822571264957013169_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_ohc=0SJb4-0X3K0AX94K8f3&_nc_ht=video.fath2-1.fna&oh=6ad5fccc4dbba4c7a3225eab14c41f48&oe=5E8B9E20
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
