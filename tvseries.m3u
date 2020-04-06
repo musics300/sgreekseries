@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="LIVE FACEBOOK",TEST
-https://video.fath2-1.fna.fbcdn.net/v/t42.26565-2/10000000_918523341916932_8822571264957013169_n.mp4?_nc_cat=105&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_ohc=0SJb4-0X3K0AX94K8f3&_nc_ht=video.fath2-1.fna&oh=6ad5fccc4dbba4c7a3225eab14c41f48&oe=5E8B9E20
+#EXTINF:-1 group-title="FACEBOOK",ΑΚΗΣ ΠΕΤΡΕΤΖΙΚΗΣ 6/4/2020
+https://video.fath2-1.fna.fbcdn.net/v/t42.26565-2/10000000_1612455162236441_6056160869800628885_n.mp4?_nc_cat=1&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_eui2=AeEzzL_7fMA1eRhEuIN-wD3W3ZpNuMUD2SLdmk24xQPZIskw9foUhf_O0GprD2aFjWkrlWEH-dPd-UeoC3d6gDNq&_nc_ohc=eJk131joOvYAX_PrqXH&_nc_ht=video.fath2-1.fna&oh=29566514567317a06bf8a1b84d301688&oe=5E8BC321
+#EXTINF:-1 group-title="FACEBOOK",ΓΙΩΡΓΟΣ ΜΑΝΩΛΑΣ 30/3/2020
+https://video.fath2-1.fna.fbcdn.net/v/t42.26565-2/10000000_257487945411934_2239337177113849252_n.mp4?_nc_cat=103&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_eui2=AeECoimJrNn9vboxVNyxdwqeubqdNRKMXSW5up01EoxdJY4iVCFLHSxBwnG6QHTb3EOG0vTk71jLQR9nK4YCMRyu&_nc_ohc=a9_Q1sOtwPoAX-uMo4x&_nc_ht=video.fath2-1.fna&oh=3c80cfdca5bcdebceebbe060f62bacbf&oe=5E8BCDB0
+#EXTINF:-1 group-title="FACEBOOK",ΓΙΩΡΓΟΣ ΠΑΤΤΑΣ 6/4/2020
+https://video.fath2-1.fna.fbcdn.net/v/t42.26565-2/10000000_146945513426392_6750779977041502116_n.mp4?_nc_cat=108&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_eui2=AeEaGaXTduZh4_T-58SlA5PQAEIX0uM0FvEAQhfS4zQW8Uh_cpzXO4Cy1e3eHouBaz-atOQMcLuMSOQ3of-k3WuR&_nc_ohc=SQUAXD50YeoAX9gKdl3&_nc_ht=video.fath2-1.fna&oh=fbea184d15f8b9cc1001a753e5e41d19&oe=5E8BC44A
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
