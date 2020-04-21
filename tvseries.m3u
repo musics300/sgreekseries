@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ",ΤΕΣΤ1
-https://vd115.mycdn.me/?expires=1587321566567&srcIp=188.4.212.140&srcAg=GECKO&ms=185.16.245.44&type=2&sig=SE7DYM5whzs&ct=4&urls=5.61.21.105&clientType=0&id=284203092613&bytes=0-7501
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Foxcatcher
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200407-foxcatcher.mp4/chunklist_w721067357.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Ιστορία Αγάπης και Σκότους
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200414-tale-of-love-and-darkness_1.mp4/chunklist_w2117268396.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Γ ΔΗΜΟΤΙΚΟΥ",Μαθηματικά – Δεκαδικοί αριθμοί
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200409_mathenoume-sto-spiti_ep29.mp4/chunklist_w1485564494.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
