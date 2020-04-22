@@ -5,6 +5,18 @@ http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200407-foxcatcher.mp4/chunklist_w721067357.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Ιστορία Αγάπης και Σκότους
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200414-tale-of-love-and-darkness_1.mp4/chunklist_w2117268396.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α ΔΗΜΟΤΙΚΟΥ ΜΑΘΗΜΑΤΙΚΑ",Οι αριθμοί μέχρι το 50, Δεκάδες και Μονάδες, Πρόσθεση
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200407_mathenoume-sto-spiti_ep22.mp4/chunklist_w1430558920.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α ΔΗΜΟΤΙΚΟΥ ΜΑΘΗΜΑΤΙΚΑ",Μονάδες-Δεκάδες
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200422_mathenoume-sto-spiti_ep52.mp4/chunklist_w2105769657.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α Β ΔΗΜΟΤΙΚΟΥ ΓΛΩΣΣΑ",Γραφή και Ανάγνωση
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200406_mathenoume-sto-spiti_ep16_PR.mp4/chunklist_w3552879.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α Β ΔΗΜΟΤΙΚΟΥ ΓΛΩΣΣΑ",Χρήση διαλυτικών-Δίφθογγοι
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200409_mathenoume-sto-spiti_ep28.mp4/chunklist_w1377833667.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α Β ΔΗΜΟΤΙΚΟΥ ΓΛΩΣΣΑ",Δίψηφα σύμφωνα, δίψηφα φωνήεντα, συλλαβισμός
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200410_mathenoume-sto-spiti_ep32.mp4/chunklist_w1134770370.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α Β ΔΗΜΟΤΙΚΟΥ ΓΛΩΣΣΑ",Δημιουργία προτάσεων
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200414_mathenoume-sto-spiti_ep40.mp4/chunklist_w1998339930.m3u8
 #EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Γ ΔΗΜΟΤΙΚΟΥ",Μαθηματικά – Δεκαδικοί αριθμοί
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200409_mathenoume-sto-spiti_ep29.mp4/chunklist_w366897373.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
