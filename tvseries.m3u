@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Οn Boby and Soul (Η Ψυχή και το Σώμα)
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200422-on-boby-and-soul.mp4/chunklist_w379081200.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Quo Vado? (Που Πάω, Θεέ μου;)
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200424-quo-vado.mp4/chunklist_w800819469.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",A Quiet Passion (Ήρεμο Πάθος)
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200421-a-quiet-passion-720p.mp4/chunklist_w1808126940.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Louis & Luca – The Big Cheese Race (Λoύι και Λούκα – Ο Μεγάλος Αγώνας Τυριού)
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200421-louis-luca.mp4/chunklist_w221216185.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Foxcatcher
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200407-foxcatcher.mp4/chunklist_w721067357.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Ιστορία Αγάπης και Σκότους
@@ -17,7 +25,11 @@ https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200410_mathenoume-sto-spiti_ep32.mp4/chunklist_w1134770370.m3u8
 #EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Α Β ΔΗΜΟΤΙΚΟΥ ΓΛΩΣΣΑ",Δημιουργία προτάσεων
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200414_mathenoume-sto-spiti_ep40.mp4/chunklist_w1998339930.m3u8
-#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Γ ΔΗΜΟΤΙΚΟΥ",Μαθηματικά – Δεκαδικοί αριθμοί
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Γ ΔΗΜΟΤΙΚΟΥ ΜΑΘΗΜΑΤΙΚΑ",Τα Τρίγωνα
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200331_mathenoume-sto-spiti_ep4.mp4/chunklist_w385403373.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Γ ΔΗΜΟΤΙΚΟΥ ΜΑΘΗΜΑΤΙΚΑ",Νοερές Πράξεις (Μέρος Α)
+https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200402_mathenoume-sto-spiti_ep10.mp4/chunklist_w2042021367.m3u8
+#EXTINF:-1 group-title="ΜΑΘΑΙΝΟΥΜΕ ΣΤΟ ΣΠΙΤΙ Γ ΔΗΜΟΤΙΚΟΥ ΜΑΘΗΜΑΤΙΚΑ",Δεκαδικοί αριθμοί
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/tv/mathainoume-sto-spiti/20200409_mathenoume-sto-spiti_ep29.mp4/chunklist_w366897373.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
