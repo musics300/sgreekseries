@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="ARIS AEK",L1
+http://live.cdnz.one/1244-aris-vs-aek-athens-f1
+#EXTINF:-1 group-title="ARIS AEK",L2
+http://livetv.sx/enx/eventinfo/945925_aris_aek/
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Οn Boby and Soul (Η Ψυχή και το Σώμα)
