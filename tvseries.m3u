@@ -55,70 +55,33 @@ https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20191214-ta-
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190630-ta-stekia.mp4/chunklist_w1044813061.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190616-ta-stekia.mp4/chunklist_w15573107.m3u8
-#EXTINF:-1 group-title="OPEN - MY GREECE",ΡΟΔΟΣ
+#EXTINF:-1 group-title="OPEN MY GREECE",ΡΟΔΟΣ
 https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6b06f304-571e-42f1-a662-44c6795031e0.MP4/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="OPEN - MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
+#EXTINF:-1 group-title="OPEN MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:7ed3e8bf-ea2b-4272-b68b-7deab78b1fc2.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="OPEN - MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 2
+#EXTINF:-1 group-title="OPEN MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 2
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:e87a93fa-4145-433a-8d23-20883183ed16.MP4/chunklist.m3u8
+#EXTINF:-1 group-title="OPEN Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="OPEN Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:2f74c249-b0e1-40ce-8d4d-7b444abc6f2e.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="OPEN Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP03
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:b6cf2266-e1a1-460a-ace6-f86d5984256f.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="OPEN Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP04
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:d22381ca-0b0b-4772-96c1-6753d448b0cb.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="OPEN Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP05
+https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9a593cc2-2e60-43ed-8105-9eb2da04c750.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="FACEBOOK LIVE",TEST
+https://neilpatel.com/wp-content/uploads/2017/08/livefacebook.jpg
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΑΝΑΣΤΡΟΦΗ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/c365d9221c414662ae8e01f0b88c4747.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΠΑΡΚΑΡΙΣΜΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/2da338ccd9854f27be1d63f13916375c.mp4
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP01&02
-https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:404e3258-4b32-4c18-9db5-10044c63d54c/chunklist_b1725000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP03&04
-https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:a26fb60a-dfd6-41dc-ad02-f46221ddcd0b/chunklist_b1725000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP05
-https://opentvvod.siliconweb.com/openTV/definst/openTVfl/amlst:bc703f5d-11d9-476c-911d-363542c421dd/chunklist_b1725000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP06
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:0e74c3f3-1209-4b57-b2fe-444c5d595012.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP07
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:6da8001b-609a-4f99-981b-4a01d65b2426.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP08
-ttps://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:b6903803-2219-4ab1-8d7f-ca17179bebd1/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP09
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:cce8550f-0454-4034-98c7-6f89ab668451/chunklist_b1045000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP10
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:2ebeecda-19e3-43e7-b171-e08a6bc5d00d/chunklist_b1045000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP11
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:0304fad3-620b-4ff5-aa52-5bd76b2b545a/chunklist_b1045000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP12
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:3a24a241-82de-45c1-a6ef-674c99ac8af7/chunklist_b1045000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP13
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:08619be9-7e1b-4d89-8bca-6364ea10ac2e/chunklist_b1045000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP14
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:f51c4edb-31e9-4e68-910a-96b6eae1a11c.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP15
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:fefc28e9-e105-4c97-8c1e-90f4d034d695/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP16
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:dfd785d2-b842-42fa-9b7b-02755f87d918/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP17
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:85256073-627f-4f16-b00f-7f2d2321932b/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP18
-https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6320402a-fc64-4127-9aa2-c4a9078a24ab/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP19
-https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:95d3440b-236b-415e-b5ca-9662f1c64652.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP20
-https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:37606c69-3974-434a-8017-343d965b7000/chunklist_b1725000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP21
-https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:d3d50072-02f0-4d75-8f29-01532720fbf3/chunklist_b1725000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP22
-https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:7966f7f9-48ac-4447-81bd-de1d74078223/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="ΤΟ ΚΟΚΚΙΝΟ ΠΟΤΑΜΙ",EP23
-https://openvodlw2.siliconweb.com/openTV/definst/openTVfl/amlst:76bb1e23-ea09-483d-80c9-387570db4b54/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP01
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9d4bd2cc-87af-455b-a31a-ab78da4cd8e6.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP02
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:2f74c249-b0e1-40ce-8d4d-7b444abc6f2e.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP03
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:b6cf2266-e1a1-460a-ace6-f86d5984256f.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP04
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:d22381ca-0b0b-4772-96c1-6753d448b0cb.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP05
-https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9a593cc2-2e60-43ed-8105-9eb2da04c750.mp4/chunklist.m3u8
+
+
+
 
 
 
