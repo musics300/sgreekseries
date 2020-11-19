@@ -25,35 +25,41 @@ https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires
 https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201029-ta-kalytera-mas-hronia-s1-ep5.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ06 - Επικίνδυνες σχέσεις 
 https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201030-ta-kalytera-mas-hronia-s1-ep6.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΧΑΙΡΕΤΑ ΜΟΥ ΤΟΝ ΠΛΑΤΑΝΟ",Επ01
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/hereta-mou-ton-platano/20201012-hereta-mou-ton-platano-s01-ep01.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΧΑΙΡΕΤΑ ΜΟΥ ΤΟΝ ΠΛΑΤΑΝΟ",Επ02
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/hereta-mou-ton-platano/20201013-hereta-mou-ton-platano-s01-ep02.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΧΑΙΡΕΤΑ ΜΟΥ ΤΟΝ ΠΛΑΤΑΝΟ",Επ03
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/hereta-mou-ton-platano/20201014-hereta-mou-ton-platano-s01-ep03-n.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171102-ta-stekia.mp4/chunklist_w768286455.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΣΤΟΕΣ ΤΗΣ ΠΟΛΗΣ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΣΤΟΕΣ ΤΗΣ ΠΟΛΗΣ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20170820-ta-stekia.mp4/chunklist_w2061433046.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΛΑΙΚΗ ΑΓΟΡΑ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΛΑΙΚΗ ΑΓΟΡΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171008-ta-stekia.mp4/chunklist_w2067189338.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΝΤΙΣΚΟΤΕΚ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΝΤΙΣΚΟΤΕΚ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20170917-ta-stekia.mp4/chunklist_w724298545.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΠΛΑΖ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΠΛΑΖ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20Plaz_webTV24072014.mp4/chunklist_w1754766282.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΤΑΒΕΡΝΑ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΤΑΒΕΡΝΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20H%20Taverna%20-%20WebTV.mp4/chunklist_w1764989031.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΓΗΠΕΔΑ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΓΗΠΕΔΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20To%20Gipedo%20-%20WebTV.mp4/chunklist_w1576554037.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΔΙΑΝΥΚΤΕΡΕΥΟΝΤΑ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΔΙΑΝΥΚΤΕΡΕΥΟΝΤΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171228-ta-stekia.mp4/chunklist_w6345340.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΚΟΜΙΞΑΔΙΚΑ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΚΟΜΙΞΑΔΙΚΑ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20191214-ta-stekia.mp4/chunklist_w538668024.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΨΙΛΙΚΑΤΖΙΔΙΚΟ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΨΙΛΙΚΑΤΖΙΔΙΚΟ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190630-ta-stekia.mp4/chunklist_w1044813061.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
+#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190616-ta-stekia.mp4/chunklist_w15573107.m3u8
-#EXTINF:-1 group-title="MY GREECE",ΡΟΔΟΣ
+#EXTINF:-1 group-title="OPEN - MY GREECE",ΡΟΔΟΣ
 https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6b06f304-571e-42f1-a662-44c6795031e0.MP4/chunklist_b666000.m3u8
-#EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
+#EXTINF:-1 group-title="OPEN - MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 1
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:7ed3e8bf-ea2b-4272-b68b-7deab78b1fc2.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 2
+#EXTINF:-1 group-title="OPEN - MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 2
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:e87a93fa-4145-433a-8d23-20883183ed16.MP4/chunklist.m3u8
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
