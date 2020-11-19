@@ -1,18 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Οn Boby and Soul (Η Ψυχή και το Σώμα)
+#EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Οn Boby and Soul (Η Ψυχή και το Σώμα)
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200422-on-boby-and-soul.mp4/chunklist_w379081200.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Quo Vado? (Που Πάω, Θεέ μου;)
+#EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Quo Vado? (Που Πάω, Θεέ μου;)
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200424-quo-vado.mp4/chunklist_w800819469.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",A Quiet Passion (Ήρεμο Πάθος)
+#EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",A Quiet Passion (Ήρεμο Πάθος)
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200421-a-quiet-passion-720p.mp4/chunklist_w1808126940.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Louis & Luca – The Big Cheese Race (Λoύι και Λούκα – Ο Μεγάλος Αγώνας Τυριού)
+#EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Louis & Luca – The Big Cheese Race (Λoύι και Λούκα – Ο Μεγάλος Αγώνας Τυριού)
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200421-louis-luca.mp4/chunklist_w221216185.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Foxcatcher
+#EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Foxcatcher
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200407-foxcatcher.mp4/chunklist_w721067357.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ ΕΡΤ",Ιστορία Αγάπης και Σκότους
+#EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Ιστορία Αγάπης και Σκότους
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200414-tale-of-love-and-darkness_1.mp4/chunklist_w2117268396.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ01 - Μια βόλτα στο Φεγγάρι 
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201015-ta-kalytera-mas-hronia-s1-ep1-N.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ02 - Ένας ουρανός γεμάτος ποδοσφαιράκια 
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201016-ta-kalytera-mas-hronia-s1-ep2-%CE%9D.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ03 - Μαγιό μπικίνι  
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201022-ta-kalytera-mas-hronia-s1-ep3-gr.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ04 - Τα UFO στου Γκύζη 
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201023-ta-kalytera-mas-hronia-s1-ep4.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ05 - Τι είναι αυτό που το λένε αγάπη 
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201029-ta-kalytera-mas-hronia-s1-ep5.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ",Επ06 - Επικίνδυνες σχέσεις 
+https://mediastream.ert.gr/vodedge/_definst_/mp4:dvrorigin/2020/ellinikes-seires/ta-kalytera-mas-hronia/20201030-ta-kalytera-mas-hronia-s1-ep6.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
@@ -43,22 +55,6 @@ https://openvodlw.siliconweb.com/openTV/definst/openTVfl/amlst:6b06f304-571e-42f
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:7ed3e8bf-ea2b-4272-b68b-7deab78b1fc2.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="MY GREECE",ΘΕΣΣΑΛΟΝΙΚΗ 2
 https://openvodlw.siliconweb.com/openTV/_definst_/openTVbase/mp4:e87a93fa-4145-433a-8d23-20883183ed16.MP4/chunklist.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP01
-http://videostream.skai.gr/201909/video/seires/polukatoikia20190924.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP02
-http://videostream.skai.gr/201909/video/seires/polukatoikia20190925.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP03
-http://videostream.skai.gr/201910/video/seires/polukatoikia20191001.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP04
-http://videostream.skai.gr/201910/video/seires/polikatoikia20191002a.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP05
-http://videostream.skai.gr/201910/video/seires/polikatoikia20191011.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP06
-http://videostream.skai.gr/201910/video/seires/polukatoikia20191018.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP07
-http://videostream.skai.gr/201910/video/seires/polikatoikia20191025.mp4.m3u8
-#EXTINF:-1 group-title="ΘΑ ΓΙΝΕΙ ΤΗΣ ΠΟΛΥΚΑΤΟΙΚΙΑΣ",EP08
-http://videostream.skai.gr/201911/video/seires/polykatoikia20191101fsdkj.mp4.m3u8
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΑΝΑΣΤΡΟΦΗ
