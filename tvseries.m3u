@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
 http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="TEST IPTV",BERGINA TV
+#EXTINF:-1 group-title="TEST",BERGINA TV
 https://video-weaver.cdg02.hls.ttvnw.net/v1/playlist/CqsF8uXQmugVobb2BTjiQxB_4io27gZuSdgktlXksMUpJi1a1Z3hG7FYduGJS6vkNICfDQPzc0aiRfRCSOuVP1gv42wfMRWDts2qnVF0_ijsORVh8zq1d3knzHIWTPXHLAxR4177yfZnpJHvs0oTrGJtR91y3Ft32FvqHxEyexdcgs89QEnXcFfshVP2djb_bPxyazA5DuOK8SPlh1ailEQvxD0nUtjYe1YQTPXJNN_QW9IDO05ZF6UEBJNezDkwUSFeHHS0RAqOCztFlB-vuJSldEapUsQXa0z0AbJde7ey30m014-DM55mtTW3a6B7FJNtz3khQ239z6XDnBiOjRTm80T9xcLn5AnR3Y_ZcW2QhKXU2SJGz3o-dgBr7S1GR0hvjKqgijcW-evNb3RFuLqqF9ppTDduLvDmFSxDagUi1bwVKL6NONDsvq9Hz6pOogg6cCR91sJwxCLem1CPksUKK9zk3sEJP9LMLDTmrGlpr8v8wjRym5vKJQ_B5sFyPnA3KXY7Bn4kAzkaUKL2wLs5iAT5rv97m8gN8oqBJk2dsvYEanBZZWArIiCdqMnlBMBhjdUE_hDDfdLcK8UQZQgiC4xWLoOPNN9IapvPTvVK13cmaHVuA-c9dGzU0MtsciHsY29joLFi7DMqtgzYplRTcuRjL8GE-LI3egDqfiYq5MH5y7qxrO1veGEmi9svZa5lfrFjRlvEt2sUe5MzIchXgI8p3rsFNIYhRRu-xGU-8T6iOoMig8ezLYn9s8-N4FofvPMWK7brpXSnfWFJ_yWAcjv1DwIe3fcU3m1xy9bvu9DJRlPbOBbehcyfHDInEbQeh6PEfob1kvWEDWY7ObvBWB1t9_qf2ngkVI6g1dtipWQLAx8fTXQlpv3CkF5b4E-MknzWOacrHwGC-u4SEB_XENtzCvMr6mTjqvG40isaDBiIqdsPfmGogmip7Q.m3u8
-#EXTINF:-1 group-title="TEST IPTV",SOUNDCLOUD
-https://cf-hls-media.sndcdn.com/playlist/F7XuVFrzIaOP.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L0Y3WHVWRnJ6SWFPUC4xMjgubXAzL3BsYXlsaXN0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTQwMzEyMDR9fX1dfQ__&Signature=bkWxoYWVkGniLX4z-R3Ci28nOh0YIwQF~94zcPOAL-D1A3k5p2M3qX~0TULMNU80E16p-KD~kwqMO6qHV9ykB4QKNjexRHws9lDFAxMsUak9CmbPKoGvrRZfFFvpXgftmpgBS6JcmSk1j8~yPKeW00d7hDEDMnMcFMH4jSa4P-0~rHZWt1EUJtKBrX2guZoxkqmzgpDD7gxtE7oZGZMpWPX~azugva6yZaii3k7zh4m2iS3J2GJVPNVD1-HY~hIDrWq5kqBcmjjAx2ZKJRfYux-gVo~gdpC4QhuxghBjtP65N~sh5iVsbmHUk0DL9sh7JBSivTb3N2YPsOcBFrm~pg__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
+#EXTINF:-1 group-title="TEST",MOVIE
+https://vd353.mycdn.me/?expires=1615396039726&srcIp=194.219.138.42&srcAg=GECKO&ms=45.136.21.68&type=0&sig=Ido5xuEi0hE&ct=4&urls=45.136.22.80&clientType=0&id=657933077090&bytes=0-5369
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Οn Boby and Soul (Η Ψυχή και το Σώμα)
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200422-on-boby-and-soul.mp4/chunklist_w379081200.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Quo Vado? (Που Πάω, Θεέ μου;)
