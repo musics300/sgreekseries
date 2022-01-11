@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="GOLD TV",ΑΡΧΕΙΟ ΜΑΣΤΟΡΑΚΗΣ
-http://webcast.flashcloud.mediacdn.com/live/tvgold/playlist.m3u8
-#EXTINF:-1 group-title="TEST",BERGINA TV
-https://video-weaver.cdg02.hls.ttvnw.net/v1/playlist/CqsF8uXQmugVobb2BTjiQxB_4io27gZuSdgktlXksMUpJi1a1Z3hG7FYduGJS6vkNICfDQPzc0aiRfRCSOuVP1gv42wfMRWDts2qnVF0_ijsORVh8zq1d3knzHIWTPXHLAxR4177yfZnpJHvs0oTrGJtR91y3Ft32FvqHxEyexdcgs89QEnXcFfshVP2djb_bPxyazA5DuOK8SPlh1ailEQvxD0nUtjYe1YQTPXJNN_QW9IDO05ZF6UEBJNezDkwUSFeHHS0RAqOCztFlB-vuJSldEapUsQXa0z0AbJde7ey30m014-DM55mtTW3a6B7FJNtz3khQ239z6XDnBiOjRTm80T9xcLn5AnR3Y_ZcW2QhKXU2SJGz3o-dgBr7S1GR0hvjKqgijcW-evNb3RFuLqqF9ppTDduLvDmFSxDagUi1bwVKL6NONDsvq9Hz6pOogg6cCR91sJwxCLem1CPksUKK9zk3sEJP9LMLDTmrGlpr8v8wjRym5vKJQ_B5sFyPnA3KXY7Bn4kAzkaUKL2wLs5iAT5rv97m8gN8oqBJk2dsvYEanBZZWArIiCdqMnlBMBhjdUE_hDDfdLcK8UQZQgiC4xWLoOPNN9IapvPTvVK13cmaHVuA-c9dGzU0MtsciHsY29joLFi7DMqtgzYplRTcuRjL8GE-LI3egDqfiYq5MH5y7qxrO1veGEmi9svZa5lfrFjRlvEt2sUe5MzIchXgI8p3rsFNIYhRRu-xGU-8T6iOoMig8ezLYn9s8-N4FofvPMWK7brpXSnfWFJ_yWAcjv1DwIe3fcU3m1xy9bvu9DJRlPbOBbehcyfHDInEbQeh6PEfob1kvWEDWY7ObvBWB1t9_qf2ngkVI6g1dtipWQLAx8fTXQlpv3CkF5b4E-MknzWOacrHwGC-u4SEB_XENtzCvMr6mTjqvG40isaDBiIqdsPfmGogmip7Q.m3u8
+#EXTINF:-1 group-title="FACEBOOK LIVE",TEST
+https://video.fath3-4.fna.fbcdn.net/hv51690_0-2813.m4a?ms=m_C&ccb=2-4&sc_t=1&_nc_sc=1
 #EXTINF:-1 group-title="TEST",MOVIE
 https://vd353.mycdn.me/?expires=1615396039726&srcIp=194.219.138.42&srcAg=GECKO&ms=45.136.21.68&type=0&sig=Ido5xuEi0hE&ct=4&urls=45.136.22.80&clientType=0&id=657933077090&bytes=0-5369
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Οn Boby and Soul (Η Ψυχή και το Σώμα)
@@ -89,8 +87,6 @@ https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:b6cf2266-e1a1-4
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:d22381ca-0b0b-4772-96c1-6753d448b0cb.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="OPEN Ο ΠΡΙΓΚΙΠΑΣ ΤΗΣ ΦΩΤΙΑΣ",EP05
 https://opentvvod.siliconweb.com/openTV/_definst_/openTVbase/mp4:9a593cc2-2e60-43ed-8105-9eb2da04c750.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="FACEBOOK LIVE",TEST
-https://video.fath3-4.fna.fbcdn.net/hvideo-ftw-ldc/_nc_cat-100/_nc_sr_t-4/v/rsOtgq35bCJY8jCg99om-/_nc_ohc-29hvcUhmwawAX9I7kKT/live-dash/ID/dash-lp-md-a/1300402527051690_0-2813.m4a?ms=m_C&ccb=2-4&sc_t=1&_nc_sc=1
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΑΝΑΣΤΡΟΦΗ
