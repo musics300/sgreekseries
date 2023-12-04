@@ -3,6 +3,8 @@
 https://video.fath3-4.fna.fbcdn.net/hv51690_0-2813.m4a?ms=m_C&ccb=2-4&sc_t=1&_nc_sc=1
 #EXTINF:-1 group-title="TEST",MOVIE
 https://vd353.mycdn.me/?expires=1615396039726&srcIp=194.219.138.42&srcAg=GECKO&ms=45.136.21.68&type=0&sig=Ido5xuEi0hE&ct=4&urls=45.136.22.80&clientType=0&id=657933077090&bytes=0-5369
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ ΣΑΣΜΟΣ",Επ40
+https://alphavod.siliconweb.com/2023-2024/sasmos/20231204_SASMOS_S03_EPS_040_5d80683d.mp4?__token__=st=1701724492~exp=1702588492~acl=/2023-2024/sasmos/20231204_SASMOS_S03_EPS_040_5d80683d.mp4*~hmac=6a2f866c413eaf939322b79a59cdcfdc429d43fb7ef80629d4865d76808faad4
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Το Κύμα - 2015
 https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/wave/wave/index.mpd&selected_id=video=3999867
 #EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ",Επ01 - Σταυροδρόμια
@@ -11,30 +13,8 @@ https://ert-vod3.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep01/erimi
 https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep02/erimi-xwra-s01-ep02/index.mpd
 #EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ" tvg-logo="https://files2.app.ertflix.gr/files/ellinikes-seires/erimi-chora/erimi-xora-ertflix-postercc.jpg?m=crop&w=80&h=121",Επ03 - Η καρδιά του φωτός
 https://ert-vod2.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep03/erimi-xwra-s01-ep03/index.mpd
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171102-ta-stekia.mp4/chunklist_w768286455.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΣΤΟΕΣ ΤΗΣ ΠΟΛΗΣ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20170820-ta-stekia.mp4/chunklist_w2061433046.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΛΑΙΚΗ ΑΓΟΡΑ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171008-ta-stekia.mp4/chunklist_w2067189338.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΝΤΙΣΚΟΤΕΚ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20170917-ta-stekia.mp4/chunklist_w724298545.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΠΛΑΖ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20Plaz_webTV24072014.mp4/chunklist_w1754766282.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",Η ΤΑΒΕΡΝΑ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20H%20Taverna%20-%20WebTV.mp4/chunklist_w1764989031.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΓΗΠΕΔΑ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2014/ta-stekia/Ta%20Stekia%20-%20To%20Gipedo%20-%20WebTV.mp4/chunklist_w1576554037.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΔΙΑΝΥΚΤΕΡΕΥΟΝΤΑ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171228-ta-stekia.mp4/chunklist_w6345340.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΑ ΚΟΜΙΞΑΔΙΚΑ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20191214-ta-stekia.mp4/chunklist_w538668024.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΨΙΛΙΚΑΤΖΙΔΙΚΟ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190630-ta-stekia.mp4/chunklist_w1044813061.m3u8
-#EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΤΟ ΣΟΥΒΛΑΤΖΙΔΙΚΟ
-https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2019/tv/ta-stekia/20190616-ta-stekia.mp4/chunklist_w15573107.m3u8
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ ΤΟ ΝΑΥΑΓΙΟ",Επ32
+https://streamcdnh7-cdd1c899a94a4babbdaf6eb9b9d5f634.msvdn.net/vod/LHdNzCmsx18e/fdfab4f4-8c49-4066-9c87-d2427e2c454e/PK6/chunklist-f1-v1-a1.m3u8
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://i1.prth.gr/images/963x541/files/2023-08-11/stasynora930.jpg",Επ01
 https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_82ca5fwj/v/1/ev/4/flavorId/1_4tnxtq65/name/a.mp4/index.m3u8
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://i1.prth.gr/images/963x541/files/2023-08-11/stasynora930.jpg",Επ02
