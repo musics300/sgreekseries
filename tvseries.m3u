@@ -16,9 +16,11 @@ https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200407-foxcatc
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Ιστορία Αγάπης και Σκότους
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigingr/2020/movies/20200414-tale-of-love-and-darkness_1.mp4/chunklist_w2117268396.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ",Επ01 - Σταυροδρόμια
-https://ert-vod3.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep01/erimi-xwra-s01-ep01/index.mpd&selected_id=video=2999813
+https://ert-vod3.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep01/erimi-xwra-s01-ep01/index.mpd
 #EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ",Επ02 - Πουθενά
-https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep02/erimi-xwra-s01-ep02/index.mpd&selected_id=video=2999810
+https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep02/erimi-xwra-s01-ep02/index.mpd
+#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ" tvg-logo="https://files2.app.ertflix.gr/files/ellinikes-seires/erimi-chora/erimi-xora-ertflix-postercc.jpg?m=crop&w=80&h=121",Επ03 - Η καρδιά του φωτός
+https://ert-vod2.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep03/erimi-xwra-s01-ep03/index.mpd
 #EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΒΙΝΤΕΟΚΛΑΜΠ
 https://ep.ert.gr/vodedge/_definst_/mp4:dvrorigin/2017/tv/ta-stekia/20171001-ta-stekia.mp4/chunklist_w405244199.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΝΤΟΚΙΜΑΝΤΕΡ ΤΑ ΣΤΕΚΙΑ",ΝΤΑΛΙΚΕΣ
