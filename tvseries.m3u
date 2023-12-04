@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="FACEBOOK LIVE",TEST
-https://video.fath3-4.fna.fbcdn.net/hv51690_0-2813.m4a?ms=m_C&ccb=2-4&sc_t=1&_nc_sc=1
-#EXTINF:-1 group-title="TEST",MOVIE
-https://vd353.mycdn.me/?expires=1615396039726&srcIp=194.219.138.42&srcAg=GECKO&ms=45.136.21.68&type=0&sig=Ido5xuEi0hE&ct=4&urls=45.136.22.80&clientType=0&id=657933077090&bytes=0-5369
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
+#EXTINF:-1 group-title="MOVIE NEW",TEST
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ ΣΑΣΜΟΣ",Επ40
 https://alphavod.siliconweb.com/2023-2024/sasmos/20231204_SASMOS_S03_EPS_040_5d80683d.mp4?__token__=st=1701724492~exp=1702588492~acl=/2023-2024/sasmos/20231204_SASMOS_S03_EPS_040_5d80683d.mp4*~hmac=6a2f866c413eaf939322b79a59cdcfdc429d43fb7ef80629d4865d76808faad4
+#EXTINF:-1 group-title="ANT1 ΟΙ ΠΑΓΙΔΕΥΜΕΝΟΙ",E18
+https://d1fsdd752lymsk.cloudfront.net/356/6503097/H264_1080P/playlist.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Το Κύμα - 2015
 https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/wave/wave/index.mpd&selected_id=video=3999867
 #EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ",Επ01 - Σταυροδρόμια
@@ -25,8 +27,7 @@ https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/c365d9221c414662ae8e01f0b88c4747.mp4
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΠΑΡΚΑΡΙΣΜΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/2da338ccd9854f27be1d63f13916375c.mp4
-#EXTINF:-1 group-title="ANT1",TEST
-https://antennavod.akamaized.net/VODS2/26dc1c81-6888-4e08-9f0e-43314e8607ed.mp4
+
 
 
 
