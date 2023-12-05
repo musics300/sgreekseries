@@ -1,25 +1,29 @@
 #EXTM3U
 #EXTINF:-1 group-title="FACEBOOK LIVE",TEST
 https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
+#EXTINF:-1 group-title="FACEBOOK VIDEO",TEST
+http://idm/&selected_id=7572754889419115v
+#EXTINF:-1 group-title="YOUTUBE VIDEO",TEST
+https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
 #EXTINF:-1 group-title="MOVIE NEW",TEST
 https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ ΣΑΣΜΟΣ",Επ40
+#EXTINF:-1 group-title="ΣΑΣΜΟΣ ALPHA",Επ40
 https://alphavod.siliconweb.com/2023-2024/sasmos/20231204_SASMOS_S03_EPS_040_5d80683d.mp4?__token__=st=1701724492~exp=1702588492~acl=/2023-2024/sasmos/20231204_SASMOS_S03_EPS_040_5d80683d.mp4*~hmac=6a2f866c413eaf939322b79a59cdcfdc429d43fb7ef80629d4865d76808faad4
-#EXTINF:-1 group-title="ANT1 ΟΙ ΠΑΓΙΔΕΥΜΕΝΟΙ",E18
+#EXTINF:-1 group-title="ΟΙ ΠΑΓΙΔΕΥΜΕΝΟΙ ANT1",E18
 https://d1fsdd752lymsk.cloudfront.net/356/6503097/H264_1080P/playlist.m3u8
 #EXTINF:-1 group-title="EPTFLIX ΤΑΙΝΙΕΣ",Το Κύμα - 2015
 https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/wave/wave/index.mpd&selected_id=video=3999867
-#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ",Επ01 - Σταυροδρόμια
+#EXTINF:-1 group-title="ΕΡΗΜΗ ΧΩΡΑ EPT1",Επ01 - Σταυροδρόμια
 https://ert-vod3.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep01/erimi-xwra-s01-ep01/
-#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ",Επ02 - Πουθενά
+#EXTINF:-1 group-title="ΕΡΗΜΗ ΧΩΡΑ EPT1",Επ02 - Πουθενά
 https://ert-vod4.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep02/erimi-xwra-s01-ep02/
-#EXTINF:-1 group-title="EPTFLIX ΣΕΙΡΕΣ ΕΡΗΜΗ ΧΩΡΑ" tvg-logo="https://files2.app.ertflix.gr/files/ellinikes-seires/erimi-chora/erimi-xora-ertflix-postercc.jpg?m=crop&w=80&h=121",Επ03 - Η καρδιά του φωτός
+#EXTINF:-1 group-title="ΕΡΗΜΗ ΧΩΡΑ EPT1" tvg-logo="https://files2.app.ertflix.gr/files/ellinikes-seires/erimi-chora/erimi-xora-ertflix-postercc.jpg?m=crop&w=80&h=121",Επ03 - Η καρδιά του φωτός
 https://ert-vod2.siliconweb.com/bpk-vod/vodext/default/erimi-xwra-s01-ep03/erimi-xwra-s01-ep03/
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ ΤΟ ΝΑΥΑΓΙΟ",Επ32
+#EXTINF:-1 group-title="ΤΟ ΝΑΥΑΓΙΟ MEGA",Επ32
 https://streamcdnh7-cdd1c899a94a4babbdaf6eb9b9d5f634.msvdn.net/vod/LHdNzCmsx18e/fdfab4f4-8c49-4066-9c87-d2427e2c454e/PK6/chunklist-f1-v1-a1.m3u8
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://i1.prth.gr/images/963x541/files/2023-08-11/stasynora930.jpg",Επ01
+#EXTINF:-1 group-title="ΣΤΑ ΣΥΝΟΡΑ STAR" tvg-logo="https://i1.prth.gr/images/963x541/files/2023-08-11/stasynora930.jpg",Επ01
 https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_82ca5fwj/v/1/ev/4/flavorId/1_4tnxtq65/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://i1.prth.gr/images/963x541/files/2023-08-11/stasynora930.jpg",Επ02
+#EXTINF:-1 group-title="ΣΤΑ ΣΥΝΟΡΑ STAR" tvg-logo="https://i1.prth.gr/images/963x541/files/2023-08-11/stasynora930.jpg",Επ02
 https://starvod.siliconweb.com/hls/p/713821/sp/71382100/serveFlavor/entryId/1_qtif9luk/v/1/ev/4/flavorId/1_t4799s9g/name/a.mp4/index.m3u8
 #EXTINF:-1 group-title="ΑΣΤΕΙΑ VIDEOS",ΒΟΗΘΕΙΑ
 https://fdlvideosec.akamaized.net/media-assets/zougla/video/e99c4b5877be464da9d2b65404b311d9.mp4
